@@ -95,7 +95,7 @@ class CreditsState extends MusicBeatState
 			['PolybiusProxy',		'proxy',			'.MP4 Video Loader Library (hxCodec)',							'https://twitter.com/polybiusproxy',	'DCD294'],
 			['KadeDev',				'kade',				'Fixed some cool stuff on Chart Editor\nand other PRs',			'https://twitter.com/kade0912',			'64A250'],
 			['Keoiki',				'keoiki',			'Note Splash Animations',										'https://twitter.com/Keoiki_',			'D2D2D2'],
-			['Nebula the Zorua',	'nebula',			'LUA JIT Fork and some Lua reworks',							'https://twitter.com/Nebula_Zorua',		'7D40B2'],
+			['Nebula the Zorua',	'nebula',			'LUA JIT Fork ahttps://www.youtube.com/channel/UCD-nZmuEFn6udyPJDwXkwxgnd some Lua reworks',							'https://twitter.com/Nebula_Zorua',		'7D40B2'],
 			['Smokey',				'smokey',			'Sprite Atlas Support',											'https://twitter.com/Smokey_5_',		'483D92'],
 			[''],
 			["Funkin' Crew"],
@@ -103,6 +103,12 @@ class CreditsState extends MusicBeatState
 			['PhantomArcade',		'phantomarcade',	"Animator of Friday Night Funkin'",								'https://twitter.com/PhantomArcade3K',	'FADC45'],
 			['evilsk8r',			'evilsk8r',			"Artist of Friday Night Funkin'",								'https://twitter.com/evilsk8r',			'5ABD4B'],
 			['kawaisprite',			'kawaisprite',		"Composer of Friday Night Funkin'",								'https://twitter.com/kawaisprite',		'378FC7']
+			['Team determination'],
+			['4rrthhhh',			'4',		"Animador'",								'https://twitter.com/4yag0',		'A2685B']
+			['Murilo',			'Murilo',		"Artista'",								'https://www.youtube.com/channel/UCD-nZmuEFn6udyPJDwXkwxg',		'B6D5FF']
+			['Kaiak017',			'kaiak',		"Compositor yeyy'",								'https://www.youtube.com/channel/UCjaZS3CyHNN3gahUG3crilA',		'464557']
+
+
 		];
 		
 		for(i in pisspoop){
